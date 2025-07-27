@@ -1,0 +1,44 @@
+{
+    "832d6f7a-42c3-43f1-a3ce-9a678272f811": {
+        "id": "d1907b0a-ea4b-4840-8c7d-f2d6515847f7",
+        "name": "Date",
+        "designId": "6a152889-4b23-4618-a7d9-9f82ec4c3d45",
+        "pluginId": "832d6f7a-42c3-43f1-a3ce-9a678272f811",
+        "publicData": {}
+    },
+    "9c40819b-4a8f-468f-9ba5-4b9699f3361f": {
+        "id": "9e2a5f31-5d52-4707-b18c-bc3c3384bfdb",
+        "name": "Charts",
+        "designId": "6a152889-4b23-4618-a7d9-9f82ec4c3d45",
+        "pluginId": "9c40819b-4a8f-468f-9ba5-4b9699f3361f",
+        "publicData": {}
+    },
+    "f9ef41c3-1c53-4857-855b-f2f6a40b7186": {
+        "id": "d6b9636e-825b-4ab7-af58-b7b5d5c46d42",
+        "name": "Supabase",
+        "designId": "6a152889-4b23-4618-a7d9-9f82ec4c3d45",
+        "pluginId": "f9ef41c3-1c53-4857-855b-f2f6a40b7186",
+        "publicData": {
+            "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndmZHFreXhrbmhrcGxucHB3bGJnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTMwODE0MjQsImV4cCI6MjA2ODY1NzQyNH0.XzmDCUpV44HftUU6Y63fLFDJGlx_HrTcLyiqXh2m1rM",
+            "projectUrl": "https://wfdqkyxknhkplnppwlbg.supabase.co",
+            "realtimeTables": {}
+        }
+    },
+    "1fa0dd68-5069-436c-9a7d-3b54c340f1fa": {
+        "id": "46e6089f-0da8-4ab4-bd01-1c8a32bfa0b8",
+        "name": "Supabase Auth",
+        "designId": "6a152889-4b23-4618-a7d9-9f82ec4c3d45",
+        "pluginId": "1fa0dd68-5069-436c-9a7d-3b54c340f1fa",
+        "publicData": {
+            "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndmZHFreXhrbmhrcGxucHB3bGJnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTMwODE0MjQsImV4cCI6MjA2ODY1NzQyNH0.XzmDCUpV44HftUU6Y63fLFDJGlx_HrTcLyiqXh2m1rM",
+            "roleTable": "roles",
+            "projectUrl": "https://wfdqkyxknhkplnppwlbg.supabase.co",
+            "userRoleTable": "users_roles",
+            "roleTableNameColumn": "name",
+            "afterForbiddenPageId": "7a8974ae-710a-4119-a75d-ee2eaacaf6f4",
+            "afterNotSignInPageId": "839f73b8-fc29-4a41-b3d1-66caf3ba4143",
+            "userRoleTableRoleColumn": "role_id",
+            "userRoleTableUserColumn": "user_id"
+        }
+    }
+}
